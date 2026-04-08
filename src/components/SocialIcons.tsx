@@ -1,7 +1,7 @@
 import {
+  FaLinkedin,
+  FaEnvelope,
   FaGithub,
-  FaTiktok,
-  FaPinterest,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -60,7 +60,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/AbdulahBashir"
+            href="https://github.com/MAdnanAshfaq"
             target="_blank"
             rel="noreferrer"
           >
@@ -69,26 +69,26 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.tiktok.com/@Coding.by.abdullah"
+            href="https://linkedin.com/"
             target="_blank"
             rel="noreferrer"
           >
-            <FaTiktok />
+            <FaLinkedin />
           </a>
         </span>
         <span>
           <a
-            href="https://www.pinterest.com/abdullahbashirautomation/"
+            href="mailto:adnanchy083@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
-            <FaPinterest />
+            <FaEnvelope />
           </a>
         </span>
       </div>
       <a
         className="resume-button"
-        href="/Abdullah_Bashir.pdf"
+        href="/Muhammad Adnan Ashfaq - Resume.pdf"
         target="_blank"
         rel="noreferrer"
       >

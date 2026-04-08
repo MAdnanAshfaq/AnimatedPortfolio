@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am Abdullah Bashir, a web automation and Chrome extension developer with 1 year of experience. I enjoy building browser-based tools and automating workflows end to end.
+          I am Muhammad Adnan Ashfaq, a Sales Executive and Lead Generation Specialist. I excel in client management, streamlining sales pipelines, and deploying effective CRM strategies to consistently achieve and exceed business targets.
         </p>
       </div>
     </div>

@@ -15,28 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Freelance Developer</h4>
-                <h5>Self-employed</h5>
+                <h4>Sales Executive</h4>
+                <h5>Enigma Software Solutions</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Present</h3>
             </div>
             <p>
-              Working as a freelance developer specializing in web automation
-              and Chrome extension development for international clients.
+              Managing client correspondence, overseeing sales pipelines across all channels, and leading a team of sales reps to achieve quarterly growth targets.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Email Marketing Expert</h4>
-                <h5>International Estimating LLC</h5>
+                <h4>Sales Coordinator</h4>
+                <h5>Genesis Engineering</h5>
               </div>
-              <h3>~1 Year</h3>
+              <h3>2024 - 2025</h3>
             </div>
             <p>
-              Managed and executed email marketing campaigns, handled outreach
-              strategy, and contributed to lead generation and client
-              communication for the company.
+              Maintained sales pipelines, prepared daily work agendas, and conducted daily/weekly call reporting. Adapted strategies for B2B, B2C, and C2C clients.
             </p>
           </div>
         </div>
