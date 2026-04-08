@@ -28,7 +28,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/muhammad-adnan-ashfaq-b09474200/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
