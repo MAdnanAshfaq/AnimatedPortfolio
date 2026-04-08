@@ -46,7 +46,7 @@ const Navbar = () => {
           AM
         </a>
         <a
-          href="https://github.com/MAdnanAshfa"
+          href="https://github.com/MAdnanAshfaq"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
